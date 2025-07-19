@@ -1,0 +1,8 @@
+microvenv/
+microvenv_deb/
+__pycache__
+*.bat
+*_dumm.py
+.env
+model_repository/*
+*.whl
